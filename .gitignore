@@ -1,0 +1,16 @@
+# Cài đặt riêng của trình soạn thảo
+.vscode/
+.idea/
+
+# Tệp tạm và tệp hệ thống
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
+*.bak
+
+# Cấu hình riêng trên máy
+.env
+.env.*
+!.env.example
